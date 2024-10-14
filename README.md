@@ -11,3 +11,16 @@ Bitte folgende Werte ausfüllen:
 skin_type = 1,2,3,4,5,6 (Bitte hier einfach die Zahl rein schreiben und nach der Fitzpatrick Skala bewerten) ethnicity = "European", "African", "Asian", "Middle Eastern", "Latin American"
 
 Zusätzlich gibt es noch die Spalte is_difficult. Bitte trage hier eine 1 ein, wenn du dir bei der Klassifikation unsicher bist. Lasse den Eintrag ansonsten einfach leer.
+
+
+
+
+-----
+
+Ein Fehler bei den Spieler-IDs: 
+
+Spieler mit dem Bild 2000055688.png ist Neo Eccleston (Ex-Huddersfield, aktuell Barrow); seine Sofascore-ID ist 1414931. Bitte beim Mergen berücksichtigen/ändern !!!
+
+Außerdem bitte prüfen, dass am Ende alle Bilder tatsächlich doppelt klassifiziert wurden.
+
+Interrater-Korrelationen berechnen, außerdem Korrelation von den Bildern mit Abweichungen |diff| >= 2 mit is_difficult
