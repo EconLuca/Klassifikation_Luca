@@ -21,6 +21,8 @@ Ein Fehler bei den Spieler-IDs:
 
 Spieler mit dem Bild 2000055688.png ist Neo Eccleston (Ex-Huddersfield, aktuell Barrow); seine Sofascore-ID ist 1414931. Bitte beim Mergen berücksichtigen/ändern !!!
 
+Spieler mit ID 1191150 hat ein .png-Bild und ein .jpg-Bild. Prüfen, ob das nochmals vorgekommen ist, falls ja, Ergebnisse checken!
+
 Außerdem bitte prüfen, dass am Ende alle Bilder tatsächlich doppelt klassifiziert wurden.
 
 Interrater-Korrelationen berechnen, außerdem Korrelation von den Bildern mit Abweichungen |diff| >= 2 mit is_difficult
